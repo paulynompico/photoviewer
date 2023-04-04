@@ -1,2 +1,2 @@
 # photoviewer
-Simple photo viewer application following a Microsoft tutorial
+Simple photo viewer application in C#
